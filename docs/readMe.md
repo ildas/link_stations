@@ -12,3 +12,5 @@ The input for this application (link station information and the input locations
 
 Before running the application make sure you have gone through the `Installation` step.
 Then to run it type in the terminal `npm run start`
+
+## It's Pety.
