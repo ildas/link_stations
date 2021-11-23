@@ -4,13 +4,12 @@
   "description": "Technical home task for JS position",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js",
     "lint": "standardx --fix --verbose | snazzy"
   },
   "author": "Iliya Daskalov",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.29.1",
     "snazzy": "^9.0.0",
     "standardx": "^7.0.0",
     "winston": "^3.3.3"
